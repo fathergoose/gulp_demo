@@ -1,0 +1,22 @@
+{
+  "name": "gulp_demo",
+  "version": "1.0.0",
+  "description": "Getting my head around Gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fathergoose/gulp_demo.git"
+  },
+  "author": "fathergoose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fathergoose/gulp_demo/issues"
+  },
+  "homepage": "https://github.com/fathergoose/gulp_demo#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
